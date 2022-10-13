@@ -1,5 +1,10 @@
 ### A chess game that can be played in the console.
 
+![game_1](Screenshots/game_1.jpg)
+
+
+![game_2](Screenshots/game_2.jpg)
+
 I could write a chess game with graphical framework like WinForms or WPF. But the meaning was in developing the game in console.
 
 To play it, first of all install `Font/CHEQ_TT.TTF`. After, compile and run.
@@ -23,6 +28,11 @@ Select - Space
 
 
 ### Шахматы которые можно играть в консоли
+
+![game_1](Screenshots/game_1.jpg)
+
+
+![game_2](Screenshots/game_2.jpg)
 
 Я мог бы написать шахматы с графическим фреймворком как Winforms или WPF. Но суть была в разработке игры для консоли.
 
